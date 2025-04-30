@@ -2,7 +2,7 @@
 
 This repository contains assignments submitted for the course **BEE-102: Introduction to Computational Biology**, offered in the Spring 2025 semester.
 
-## Instructor
+## Professor
 **Prof. Dr. Satyanarayan Rao**  
 Indian Institute of Technology (IITR)
 
